@@ -1,8 +1,8 @@
 [
-    {"id": 1, "title": "Getting tickets to the big show", "category": "Development", "image": "/src/assets/portfolio-1.jpg"},
-    {"id": 2, "title": "Getting tickets to the big show", "category": "Development", "image": "/src/assets/portfolio-2.jpg"},
-    {"id": 3, "title": "Getting tickets to the big show", "category": "Development", "image": "/src/assets/portfolio-3.jpg"},
-    {"id": 4, "title": "Getting tickets to the big show", "category": "Development", "image": "/src/assets/portfolio-4.jpg"},
-    {"id": 5, "title": "Getting tickets to the big show", "category": "Development", "image": "/src/assets/portfolio-3.jpg"},
-    {"id": 6, "title": "Getting tickets to the big show", "category": "Development", "image": "/src/assets/portfolio-1.jpg"}
+    {"id": 1, "title": "Getting tickets to the big show", "category": "Development", "image": "images/portfolio-1.jpg"},
+    {"id": 2, "title": "Getting tickets to the big show", "category": "Development", "image": "images/portfolio-2.jpg"},
+    {"id": 3, "title": "Getting tickets to the big show", "category": "Development", "image": "images/portfolio-3.jpg"},
+    {"id": 4, "title": "Getting tickets to the big show", "category": "Development", "image": "images/portfolio-4.jpg"},
+    {"id": 5, "title": "Getting tickets to the big show", "category": "Development", "image": "images/portfolio-3.jpg"},
+    {"id": 6, "title": "Getting tickets to the big show", "category": "Development", "image": "images/portfolio-1.jpg"}
 ]
